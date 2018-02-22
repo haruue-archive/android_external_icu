@@ -949,44 +949,44 @@ zh{
         }
         digital{
             bit{
-                dnam{"比特"}
-                other{"{0}比特"}
+                dnam{"bit"}
+                other{"{0} bit"}
             }
             byte{
-                dnam{"字节"}
-                other{"{0}字节"}
+                dnam{"byte"}
+                other{"{0} byte"}
             }
             gigabit{
-                dnam{"吉比特"}
-                other{"{0}吉比特"}
+                dnam{"Gb"}
+                other{"{0} Gb"}
             }
             gigabyte{
-                dnam{"吉字节"}
-                other{"{0}吉字节"}
+                dnam{"GB"}
+                other{"{0} GB"}
             }
             kilobit{
-                dnam{"千比特"}
-                other{"{0}千比特"}
+                dnam{"kb"}
+                other{"{0} kb"}
             }
             kilobyte{
-                dnam{"千字节"}
-                other{"{0}千字节"}
+                dnam{"kB"}
+                other{"{0} kB"}
             }
             megabit{
-                dnam{"兆比特"}
-                other{"{0}兆比特"}
+                dnam{"Mb"}
+                other{"{0} Mb"}
             }
             megabyte{
-                dnam{"兆字节"}
-                other{"{0}兆字节"}
+                dnam{"MB"}
+                other{"{0} MB"}
             }
             terabit{
-                dnam{"太比特"}
-                other{"{0}太比特"}
+                dnam{"Tb"}
+                other{"{0} Tb"}
             }
             terabyte{
-                dnam{"太字节"}
-                other{"{0}太字节"}
+                dnam{"TB"}
+                other{"{0} TB"}
             }
         }
         duration{
